@@ -1,24 +1,22 @@
-<h2 align="center">dracula74644</h2>
-
-<table>
+<table width="100%">
 <tr>
-<td width="45%">
+<td width="40%">
 
 ```text
-       .-.
-      (o o)
-      | O \
-       \   \
-        `~~~'
+      .-.
+     (o o)
+     | O \
+      \   \
+       `~~~'
 ```
 
 </td>
 
-<td width="55%">
+<td width="60%">
 
 ```text
 dracula@github
-────────────────────────────
+────────────────────────────────────────────
 
 OS:          Arch Linux
 Role:        Bug Bounty Hunter
@@ -36,7 +34,6 @@ Learning:
 
 Editor:
 VS Code
-
 ```
 
 </td>
