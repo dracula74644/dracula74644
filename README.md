@@ -1,21 +1,44 @@
-<div align="center">
+<h2 align="center">dracula74644</h2>
 
-# dracula74644
+<table>
+<tr>
+<td width="45%">
+
+```text
+       .-.
+      (o o)
+      | O \
+       \   \
+        `~~~'
+```
+
+</td>
+
+<td width="55%">
 
 ```text
 dracula@github
-──────────────────────────────────────────────
+────────────────────────────
 
-OS:                 Arch Linux
-Role:               Bug Bounty Hunter
-Focus:              Web • API • Mobile Security
-Editor:             VS Code
+OS:          Arch Linux
+Role:        Bug Bounty Hunter
+Location:    India
 
-Currently Learning:
+Focus:
+• Web Security
+• API Security
+• Mobile Security
+
+Learning:
 • AI Security
-• Reverse Engineering
 • Cloud Security
+• Reverse Engineering
+
+Editor:
+VS Code
 
 ```
 
-</div>
+</td>
+</tr>
+</table>
